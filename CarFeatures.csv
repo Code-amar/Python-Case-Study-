@@ -1,0 +1,26 @@
+Make,Fuel Type,Aspiration,Number of Doors,Body Style,Drive Wheels,Engine Location,Number of Cylinders,Wheel Base,Length,Width,Height,Curb Weight,Engine Size,Horsepower,City MPG,Highway MPG,Price
+Toyota,Diesel,Std,Two,Convertible,Fwd,Front,Twelve,95.1,175.9,60.6,59.4,1758,252,279,40,41,5272
+Mitsubishi,Diesel,Std,Four,Convertible,Fwd,Rear,Four,91.7,153.9,60.5,55.1,1887,95,150,32,42,31393
+Chevrolet,Gas,Turbo,Four,Hatchback,Rwd,Front,Two,116.2,203.5,65.3,58.5,3815,231,129,13,41,40450
+Mitsubishi,Gas,Turbo,Four,Hatchback,Fwd,Front,Three,112.8,154.3,64.9,51.4,3367,106,230,39,21,37881
+Mercedes,Gas,Std,Four,Sedan,Rwd,Rear,Two,115.1,143.4,62.6,49.6,3433,294,96,46,52,18087
+Audi,Diesel,Turbo,Four,Sedan,Fwd,Rear,Eight,103.1,174.2,61.1,58.2,3151,294,180,24,49,29072
+Toyota,Gas,Std,Two,Sedan,Fwd,Front,Two,99.1,165.9,66.3,50.1,1488,280,103,49,51,40466
+Mazda,Gas,Turbo,Two,Sedan,Rwd,Front,Eight,92.3,181.8,67.0,50.8,3129,95,205,27,30,24486
+Toyota,Gas,Std,Two,Convertible,Rwd,Front,Twelve,108.7,204.1,62.5,48.9,3287,163,245,27,48,36978
+BMW,Diesel,Turbo,Four,Hatchback,Rwd,Rear,Eight,119.6,187.8,60.8,59.8,2608,224,172,19,27,10528
+Mitsubishi,Gas,Std,Four,Wagon,Fwd,Front,Twelve,110.6,181.5,70.5,52.7,2409,84,81,38,16,22096
+Nissan,Gas,Std,Four,Sedan,Rwd,Rear,Two,115.2,144.3,62.4,53.0,2945,124,85,36,45,14838
+Mazda,Diesel,Turbo,Four,Hatchback,Rwd,Rear,Five,96.0,188.8,68.3,48.8,1495,226,193,46,19,14342
+Mercedes,Diesel,Std,Two,Hatchback,Fwd,Rear,Five,95.6,159.0,70.6,54.8,3277,179,91,41,43,28230
+Toyota,Diesel,Std,Two,Hatchback,Rwd,Rear,Eight,100.8,179.3,68.7,50.0,2029,201,168,31,43,18454
+Mazda,Diesel,Std,Two,Hatchback,4wd,Front,Two,93.3,207.6,62.2,53.7,2108,296,50,29,36,17229
+Audi,Gas,Std,Two,Convertible,4wd,Rear,Five,111.2,152.2,66.5,49.1,3755,186,260,14,48,36667
+BMW,Diesel,Std,Four,Wagon,4wd,Rear,Two,94.7,162.4,70.6,53.7,2036,193,236,15,33,18524
+Audi,Diesel,Turbo,Two,Wagon,Rwd,Rear,Six,115.1,169.1,70.5,51.0,3591,79,285,24,53,18094
+BMW,Diesel,Std,Two,Convertible,4wd,Front,Twelve,103.8,193.3,71.5,50.1,3922,217,152,25,30,18086
+Mercedes,Gas,Turbo,Four,Sedan,Fwd,Front,Six,106.7,198.1,62.6,47.9,3732,91,231,16,28,22179
+Honda,Gas,Turbo,Four,Sedan,Rwd,Rear,Three,113.9,164.7,66.0,51.8,3231,293,100,29,42,14109
+BMW,Diesel,Std,Four,Hardtop,Fwd,Rear,Eight,107.2,169.3,67.8,47.8,3235,88,288,37,28,33169
+Ford,Gas,Turbo,Four,Wagon,4wd,Front,Two,118.8,161.4,68.5,55.5,3744,199,85,30,43,5505
+Ford,Gas,Turbo,Two,Wagon,Fwd,Front,Six,106.8,172.4,68.4,55.3,3261,319,125,16,32,10988
